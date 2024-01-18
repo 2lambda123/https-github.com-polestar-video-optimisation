@@ -1,8 +1,10 @@
 # video-optimization
 
 # Presets index
-Different apps/domians have different video requirements on Polestar. 
-## Dotcom 
+
+Different apps/domians have different video requirements on Polestar.
+
+## Dotcom
 
 These are all the specificatoins and prests for videos used on Dotcom.
 
@@ -17,7 +19,6 @@ These are all the specificatoins and prests for videos used on Dotcom.
 9. [SectionVideoCards](/docs/domains/dotcom/sections/SectionVideoCards/README.md)
 10. [SectionVideoContentOverlay](/docs/domains/dotcom/sections/SectionVideoContentOverlay/README.md)
 
-
 Some change
 
 ## Mobile App
@@ -27,4 +28,3 @@ These are presets for videos used in the mobile app.
 ## MISC
 
 Some presets are generic eonugh that they can be recommened for a wide array of use cases. There are for 16:9 videos with "standard" resoltions of 1080p (HD) 720p and 480p.
-
